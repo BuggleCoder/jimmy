@@ -1,0 +1,77 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+a:hover, a:active {
+  color: #0d47a1;
+}
+
+button {
+  background: #1e3a8a;
+  color: white;
+  border: 2px solid #000000;
+  border-radius: 12px;
+  padding: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background: #172554;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+button:focus-visible {
+  outline: 3px solid #93c5fd;
+  outline-offset: 2px;
+}
+
+.game-section {
+  margin: 30px 0;
+}
+
+.game-section h2 {
+  color: #000000;
+  font-size: 24px;
+  margin-bottom: 18px;
+}
+
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 15px;
+}
+
+.game-card {
+  background: #1e3a8a;
+  color: white;
+  border: 2px solid #000000;
+  border-radius: 12px;
+  padding: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.game-card:hover {
+  background: #172554;
+  transform: translateY(-4px);
+  box-shadow: 0 5px 20px rgba(23, 37, 84, 0.4);
+}
