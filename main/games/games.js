@@ -148,7 +148,7 @@ async function loadGame(gameData) {
   page.innerHTML = `
         <div id="loading" style="
             font-family: monospace;
-            color: #4AF626;
+            color: #07f5f5;
             text-align: center;
             position: absolute;
             top: 50%;

@@ -2,31 +2,26 @@
   {
     "name": "Slope",
     "slug": "slope",
-    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/slope.html",
-    "description": "Play Slope online! Navigate a fast-moving ball through challenging 3D obstacle courses."
+    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/slope.html"
   },
   {
     "name": "Stickman Hook",
     "slug": "stickman-hook",
-    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stickmanhook.html",
-    "description": "Play Stickman Hook online! Swing through levels using ropes and momentum."
+    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stickmanhook.html"
   },
   {
     "name": "Eaglercraft",
     "slug": "eaglercraft",
-    "url": "https://raw.githubusercontent.com/snip3rxxgames/Eaglecraft/refs/heads/main/1.5.html",
-    "description": "Explore a block-based sandbox world in Eaglercraft."
+    "url": "https://raw.githubusercontent.com/snip3rxxgames/Eaglecraft/refs/heads/main/1.5.html"
   },
   {
     "name": "Spacebar Clicker",
     "slug": "spacebar-clicker",
-    "url": "https://raw.githubusercontent.com/BuggleCoder/-Jimmy-Assets/refs/heads/main/spacebarclicker.html",
-    "description": "Play Spacebar Clicker and see how far you can progress through clicking."
+    "url": "https://raw.githubusercontent.com/BuggleCoder/-Jimmy-Assets/refs/heads/main/spacebarclicker.html"
   },
   {
     "name": "Paper IO 2",
     "slug": "paper-io-2",
-    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/paperio2.html",
-    "description": "Play Paper IO 2 and see how much you can claim!"
+    "url": "https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/paperio2.html"
   }
 ]
